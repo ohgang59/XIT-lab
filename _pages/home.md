@@ -24,7 +24,7 @@ X-IT Lab works across IT, AI applications, and communication-system technologies
 
 <div class="callout callout-success" markdown="0">
 <div class="callout-title">{% include icon.html name="award" class="callout-icon" %} Co-Directed Lab</div>
-<p>X-IT Lab is co-directed by Prof. BC Chung (trustworthy AI and communication security) and Prof. Junbeom Kim (communication MIMO system optimization).</p>
+<p>X-IT Lab is co-directed by Prof. Byung Chang Chung (trustworthy AI and communication security) and Prof. Junbeom Kim (communication MIMO system optimization).</p>
 </div>
 
 ## Career Paths

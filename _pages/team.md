@@ -3,7 +3,7 @@ title: "Team"
 layout: page
 permalink: /team/
 directors:
-  - name: BC Chung
+  - name: Byung Chang Chung
     email: bcchung@gnu.ac.kr
     scholar: "https://scholar.google.com/citations?user=Z8_fEX8AAAAJ&hl=ko&oi=ao"
     focus: Trustworthy AI and network / communication security
@@ -15,7 +15,7 @@ directors:
 
 # {{ page.title }}
 
-{{ site.name }} is co-directed by **Prof. BC Chung** and **Prof. Junbeom Kim** at {{ site.institution }}. Their complementary research areas connect trustworthy AI and communication security with communication-system optimization.
+{{ site.name }} is co-directed by **Prof. Byung Chang Chung** and **Prof. Junbeom Kim** at {{ site.institution }}. Their complementary research areas connect trustworthy AI and communication security with communication-system optimization.
 
 ## Co-Directors
 

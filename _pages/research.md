@@ -26,14 +26,14 @@ Our research connects **Physical AI**, **trustworthy learning**, and **communica
 <section class="research-card" id="trustworthy-ai" style="scroll-margin-top: 6rem;">
 <div class="research-body">
 <h2 class="research-title">Trustworthy AI</h2>
-<p class="research-desc">Understanding how AI can operate safely in connected, real-world settings. This research area is part of Prof. BC Chung's focus in the lab.</p>
+<p class="research-desc">Understanding how AI can operate safely in connected, real-world settings. This research area is part of Prof. Byung Chang Chung's focus in the lab.</p>
 <span class="chip chip-muted">Trust &amp; safety</span>
 </div>
 </section>
 <section class="research-card" id="network-security" style="scroll-margin-top: 6rem;">
 <div class="research-body">
 <h2 class="research-title">Network &amp; Communication Security</h2>
-<p class="research-desc">Security in the networks and communication infrastructure used by connected systems, studied alongside trustworthy AI under Prof. BC Chung's direction.</p>
+<p class="research-desc">Security in the networks and communication infrastructure used by connected systems, studied alongside trustworthy AI under Prof. Byung Chang Chung's direction.</p>
 <span class="chip chip-muted">Communication security</span>
 </div>
 </section>
@@ -55,7 +55,7 @@ Our research connects **Physical AI**, **trustworthy learning**, and **communica
 
 <div class="callout callout-info" markdown="0">
 <h2 class="callout-title">A Shared Research Direction</h2>
-<p>Prof. BC Chung's work in trustworthy AI and communication security and Prof. Junbeom Kim's work in MIMO system optimization bring complementary perspectives to the lab's Physical AI focus.</p>
+<p>Prof. Byung Chang Chung's work in trustworthy AI and communication security and Prof. Junbeom Kim's work in MIMO system optimization bring complementary perspectives to the lab's Physical AI focus.</p>
 </div>
 
 <div class="section-card" markdown="0">
