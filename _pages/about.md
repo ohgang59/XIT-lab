@@ -47,5 +47,5 @@ The lab's research connects to AI and network engineering, AI security research,
 
 <div class="callout callout-info" markdown="0">
 <h2 class="callout-title">Get in Touch</h2>
-<p>For research, collaboration, or graduate-study inquiries, contact <a href="mailto:bcchung@gnu.ac.kr">Prof. BC Chung</a> or <a href="mailto:junbeom@gnu.ac.kr">Prof. Junbeom Kim</a>.</p>
+<p>For research, collaboration, or graduate-study inquiries, contact <a href="mailto:bcchung@gnu.ac.kr">Prof. Byung Chang Chung</a> or <a href="mailto:junbeom@gnu.ac.kr">Prof. Junbeom Kim</a>.</p>
 </div>
